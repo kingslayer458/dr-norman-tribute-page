@@ -1,0 +1,41 @@
+
+
+.text{
+    font-size: 1.2rem;
+    width: 45%;
+    text-align: justify;
+    
+ 
+    margin: 20px 50px 0 23rem;
+    
+    
+}
+h1,p,h3{
+    text-align: center;
+}
+
+img{
+    width: 870px;
+    margin: 0px 50px 0 20rem;
+}
+
+h3{
+    font-size: 1.5rem;
+}
+
+.heading{
+    background-color:rgb(220, 220, 220)
+}
+
+.image{
+    background-color: white;
+    font-size: 16px;
+}
+
+h1{
+    font-size: 40px;
+}
+.two{
+    font-size: 1.3rem;
+
+}
